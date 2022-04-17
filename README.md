@@ -9,4 +9,4 @@ Simple form for booking
 to start:
 1. Установить зависимости (composer install)
 2. Настроить подключение к БД (config/db.php )
-3. Проверить миграции (php yii migrate)
+3. Провести миграции (php yii migrate)
